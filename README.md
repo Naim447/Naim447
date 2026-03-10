@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naim Khan
 
 🚀 **DevOps Engineer**  
-☁️ **AWS | Kubernetes | Docker | CI/CD | Terraform | Linux**  
+☁️ **AWS | Kubernetes | Docker | CI/CD | Terraform | Linux | Ansible | Jenkins | Prometheus | Grafana**  
 💼 **7+ Years IT Experience | 4+ Years DevOps**  
 
 ---
